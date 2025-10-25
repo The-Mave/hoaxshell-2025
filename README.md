@@ -1,3 +1,5 @@
+UPDATE FOR NEW KALI - 2025 ENV SETTINGS
+
 # hoaxshell
 [![Python](https://img.shields.io/badge/Python-%E2%89%A5%203.6-yellow.svg)](https://www.python.org/) 
 <img src="https://img.shields.io/badge/PowerShell-%E2%89%A5%20v3.0-blue">
